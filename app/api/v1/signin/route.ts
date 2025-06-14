@@ -7,6 +7,6 @@ export default function POST(req:NextRequest){
     console.log(data)
     
     NextResponse.json({
-        message:"Sign in successfully"
+        message:"Sign up successfully"
     })
 }
