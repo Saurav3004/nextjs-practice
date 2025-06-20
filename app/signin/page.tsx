@@ -1,5 +1,7 @@
 export default function SignIn(){
     return <div>
-        sign In page
+      <div>
+        <a href="/signin">SignIn</a>
+      </div>
     </div>
 }
